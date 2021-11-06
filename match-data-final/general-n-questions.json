@@ -1,0 +1,28 @@
+[{
+    "match_id": "I1",
+    "question_show_start_time": "02-11-2021 6:45:00",
+    "bid_start_time": "02-11-2021 10:45:00",
+    "bid_end_time": "11-11-2021 8:00:00",
+    "question_show_end_time": "11-11-2021 11:00:00",
+    "questions": [{
+        "question_no": "1",
+        "match_no": "1",
+        "question_id": "I1Q1",
+        "match_id": "I1",
+        "question": "Will Nykaa hit a Market cap of $12B on the first day of listing? ",
+        "options": ["Yes", "No"],
+        "option_na": "No Result",
+        "stats": "As of Nov 1 2021, Nykaa IPO has been subscribed 81.78 times. The public issue subscribed 12.24 times in the retail category, 91.18 times in QIB, and 112.02 times in the NII category.",
+        "category": "General",
+        "sub_category": "",
+        "match": "",
+        "tournament": "IPOs",
+        "question_show_start_time": "02-11-2021 6:45:00",
+        "bid_start_time": "02-11-2021 10:45:00",
+        "bid_end_time": "11-11-2021 8:00:00",
+        "question_show_end_time": "11-11-2021 11:00:00",
+        "team_a": "Nykaa",
+        "team_b": "",
+        "team_a_code": "Nykaa"
+    }]
+}]

@@ -2,8 +2,8 @@
     "match_id": "I1",
     "question_show_start_time": "02-11-2021 6:45:00",
     "bid_start_time": "02-11-2021 10:45:00",
-    "bid_end_time": "11-11-2021 8:00:00",
-    "question_show_end_time": "11-11-2021 11:00:00",
+    "bid_end_time": "10-11-2021 8:00:00",
+    "question_show_end_time": "10-11-2021 11:00:00",
     "questions": [{
         "question_no": "1",
         "match_no": "1",
@@ -19,8 +19,8 @@
         "tournament": "IPOs",
         "question_show_start_time": "02-11-2021 6:45:00",
         "bid_start_time": "02-11-2021 10:45:00",
-        "bid_end_time": "11-11-2021 8:00:00",
-        "question_show_end_time": "11-11-2021 11:00:00",
+        "bid_end_time": "10-11-2021 8:00:00",
+        "question_show_end_time": "10-11-2021 11:00:00",
         "team_a": "Nykaa",
         "team_b": "",
         "team_a_code": "Nykaa"

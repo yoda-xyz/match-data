@@ -25,4 +25,31 @@
         "team_b": "",
         "team_a_code": "Nykaa"
     }]
+}, {
+    "match_id": "GE1",
+    "question_show_start_time": "11-11-2021 08:00:00",
+    "bid_start_time": "11-11-2021 08:00:00",
+    "bid_end_time": "23-11-2021 05:30:00",
+    "question_show_end_time": "01-12-2021 06:30:00",
+    "questions": [{
+        "question_no": "1",
+        "match_no": "1",
+        "question_id": "GE1Q1",
+        "match_id": "GE1",
+        "question": "Will PlanB's prediction for $BTC price end of November come true? (BTC > $98k)",
+        "options": ["Yes", "No "],
+        "option_na": "No Result",
+        "stats": "Tweet - https://twitter.com/100trillionUSD/status/1454962054297788417\nPlanB's prediction for month of August, September and October have all come true on $BTC's price.\n\nSource - https://www.coingecko.com/en/coins/bitcoin",
+        "category": "General",
+        "sub_category": "",
+        "match": "",
+        "tournament": "Twitter",
+        "question_show_start_time": "11-11-2021 08:00:00",
+        "bid_start_time": "11-11-2021 08:00:00",
+        "bid_end_time": "23-11-2021 05:30:00",
+        "question_show_end_time": "01-12-2021 06:30:00",
+        "team_a": "PlanB",
+        "team_b": "",
+        "team_a_code": "PlanB"
+    }]
 }]

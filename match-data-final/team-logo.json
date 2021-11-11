@@ -1,0 +1,26 @@
+{
+  "IND": "https://raw.githubusercontent.com/yoda-xyz/match-data/main/team-images/IND.png",
+  "AFG": "https://raw.githubusercontent.com/yoda-xyz/match-data/main/team-images/AFG.png",
+  "AUS": "https://raw.githubusercontent.com/yoda-xyz/match-data/main/team-images/AUS.png",
+  "BDESH":
+    "https://raw.githubusercontent.com/yoda-xyz/match-data/main/team-images/BDESH.png",
+  "BAN": "https://raw.githubusercontent.com/yoda-xyz/match-data/main/team-images/BDESH.png",
+  "ENG": "https://raw.githubusercontent.com/yoda-xyz/match-data/main/team-images/ENG.png",
+  "IRE": "https://raw.githubusercontent.com/yoda-xyz/match-data/main/team-images/IRE.png",
+  "NAM": "https://raw.githubusercontent.com/yoda-xyz/match-data/main/team-images/NAM.png",
+  "NL": "https://raw.githubusercontent.com/yoda-xyz/match-data/main/team-images/NL.png",
+  "NZ": "https://raw.githubusercontent.com/yoda-xyz/match-data/main/team-images/NZ.png",
+  "OMN": "https://raw.githubusercontent.com/yoda-xyz/match-data/main/team-images/OMN.png",
+  "PAK": "https://raw.githubusercontent.com/yoda-xyz/match-data/main/team-images/PAK.png",
+  "PNG": "https://raw.githubusercontent.com/yoda-xyz/match-data/main/team-images/PNG.png",
+  "SA": "https://raw.githubusercontent.com/yoda-xyz/match-data/main/team-images/SA.png",
+  "SCO": "https://raw.githubusercontent.com/yoda-xyz/match-data/main/team-images/SCO.png",
+  "SL": "https://raw.githubusercontent.com/yoda-xyz/match-data/main/team-images/SL.png",
+  "WI": "https://raw.githubusercontent.com/yoda-xyz/match-data/main/team-images/WI.png",
+  "NYKAA": "https://raw.githubusercontent.com/yoda-xyz/match-data/main/team-images/NYKAA.png",
+  "PLANB" : "https://raw.githubusercontent.com/yoda-xyz/match-data/main/team-images/PLANB.png",
+  "$BTC" : "https://raw.githubusercontent.com/yoda-xyz/match-data/main/team-images/$BTC.png",
+  "$ETH" : "https://raw.githubusercontent.com/yoda-xyz/match-data/main/team-images/$ETH.png",
+  "$MATIC" : "https://raw.githubusercontent.com/yoda-xyz/match-data/main/team-images/$MATIC.png",
+  "$SOL": "https://raw.githubusercontent.com/yoda-xyz/match-data/main/team-images/$SOL.png"
+}

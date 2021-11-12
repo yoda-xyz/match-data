@@ -5220,4 +5220,32 @@
         "team_a_code": "AUS",
         "team_b_code": "PAK"
     }]
+}, {
+    "match_id": "G45",
+    "question_show_start_time": "10-11-2021 06:45:00",
+    "bid_start_time": "10-11-2021 12:45:00",
+    "bid_end_time": "14-11-2021 18:45:00",
+    "question_show_end_time": "14-11-2021 23:45:00",
+    "questions": [{
+        "question_no": "371",
+        "match_no": "45",
+        "question_id": "G45Q1",
+        "match_id": "G45",
+        "question": "Which team will win the finals?",
+        "options": ["AUS", "NZ"],
+        "option_na": "No Result",
+        "stats": "In the WC 2021, both Australia and New Zealand have just lost 1 match from the matches they played.",
+        "category": "Cricket",
+        "sub_category": "",
+        "match": "Australia vs New Zealand",
+        "tournament": "T20 World Cup",
+        "question_show_start_time": "10-11-2021 06:45:00",
+        "bid_start_time": "10-11-2021 12:45:00",
+        "bid_end_time": "14-11-2021 18:45:00",
+        "question_show_end_time": "14-11-2021 23:45:00",
+        "team_a": "Australia",
+        "team_b": "New Zealand",
+        "team_a_code": "AUS",
+        "team_b_code": "NZ"
+    }]
 }]

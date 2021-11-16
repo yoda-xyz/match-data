@@ -1,11 +1,11 @@
 {
-    "0x1097f0e5ab34b4af1f91bafaf61e40701762b529361d16d516f3b68c9b0a0531": {
+    "0x3f057b8b790c03d77af8e1fc256b3e5478159e578b226943f96399707d657664": {
         "question_no": "92",
-        "match_no": "16",
-        "question_id": "G16Q1",
-        "match_id": "G16",
+        "match_no": "17",
+        "question_id": "G17Q1",
+        "match_id": "G17",
         "question": "Who will win the match?",
-        "options": ["IND", "PAK"],
+        "options": ["IND", "PAK", "AUS"],
         "option_na": "No Result",
         "stats": "In last 6 T20 matches played between India and Pakistan, India won 5 matches and Pakistan won 1",
         "category": "Cricket",
@@ -21,13 +21,13 @@
         "team_a_code": "IND",
         "team_b_code": "PAK"
     },
-    "0xfebb8eb90c4b97210409dc2476eb53fbb5827a0f0246b216e0e978b73d9033dc": {
+    "0xfe5f108b910ceb05bd91fd87652566950f6e0bf433e85b0e5f6bcf41dcc9493c": {
         "question_no": "93",
-        "match_no": "16",
-        "question_id": "G16Q2",
-        "match_id": "G16",
+        "match_no": "17",
+        "question_id": "G17Q2",
+        "match_id": "G17",
         "question": "Will the total runs scored in the match be more than 250?",
-        "options": ["Yes", "No"],
+        "options": ["Yes", "No", "AUS"],
         "option_na": "No Result",
         "stats": "1. In 3 matches played between India and Pakistan, India has scored an average of 111 runs and Pakistan has scored an average of 110 runs.\n2. In last 3 matches played between India and Pakistan, Only 1 match has combined score was more than 250 runs. ",
         "category": "Cricket",
@@ -43,13 +43,13 @@
         "team_a_code": "IND",
         "team_b_code": "PAK"
     },
-    "0x8efa38093fbd037a0cf798f4eeddc54424e045840ac61bc8ab728cf9a0eaba15": {
+    "0x48d8efe6ebd9cd8d368c6af64ec386f6a89ff77dd5f5c1c732adeb1d0f086b16": {
         "question_no": "94",
-        "match_no": "16",
-        "question_id": "G16Q3",
-        "match_id": "G16",
+        "match_no": "17",
+        "question_id": "G17Q3",
+        "match_id": "G17",
         "question": "Who will win the toss?",
-        "options": ["IND", "PAK"],
+        "options": ["IND", "PAK", "AUS"],
         "option_na": "No Result",
         "stats": "1. In last 3 T20 matches played between India and Pakistan, India has won the toss all three times ",
         "category": "Cricket",

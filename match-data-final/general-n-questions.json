@@ -52,4 +52,51 @@
         "team_b": "",
         "team_a_code": "PlanB"
     }]
+}, {
+    "match_id": "GE2",
+    "question_show_start_time": "22-11-2021 06:00:00",
+    "bid_start_time": "22-11-2021 06:00:00",
+    "bid_end_time": "24-01-2022 19:30:00",
+    "question_show_end_time": "01-02-2022 07:30:00",
+    "questions": [{
+        "question_no": "1",
+        "match_no": "2",
+        "question_id": "GE2Q1",
+        "match_id": "GE2",
+        "question": "Would the 64th Grammy awards be won by an African Artist?",
+        "options": ["Yes", "No"],
+        "option_na": "No Result",
+        "stats": "1. At least 3 Grammy awards have been won by an African Artist till now. \n2. First African won the award in 1991",
+        "category": "General",
+        "sub_category": "",
+        "match": "",
+        "tournament": "Grammy Awards",
+        "question_show_start_time": "22-11-2021 06:00:00",
+        "bid_start_time": "22-11-2021 06:00:00",
+        "bid_end_time": "24-01-2022 19:30:00",
+        "question_show_end_time": "01-02-2022 07:30:00",
+        "team_a": "Grammy Awards",
+        "team_b": "",
+        "team_a_code": "Grammy"
+    }, {
+        "question_no": "2",
+        "match_no": "2",
+        "question_id": "GE2Q2",
+        "match_id": "GE2",
+        "question": "Will Wizkid, the Nigerian born musical artist will get an award for the best music video category in Grammy award by 31st January, 2022?",
+        "options": ["Yes", "No"],
+        "option_na": "No Result",
+        "stats": "1. In 1991 best music video category award was won by a Nigerian.\n2. In 2021 wizkid won the best music video category. ",
+        "category": "General",
+        "sub_category": "",
+        "match": "",
+        "tournament": "Grammy Awards",
+        "question_show_start_time": "22-11-2021 06:00:00",
+        "bid_start_time": "22-11-2021 06:00:00",
+        "bid_end_time": "24-01-2022 19:30:00",
+        "question_show_end_time": "01-02-2022 07:30:00",
+        "team_a": "Grammy Awards",
+        "team_b": "",
+        "team_a_code": "Grammy"
+    }]
 }]

@@ -33,5 +33,9 @@
   "$LUNA": "https://raw.githubusercontent.com/yoda-xyz/match-data/main/team-images/$LUNA.png",
   "$MANA": "https://raw.githubusercontent.com/yoda-xyz/match-data/main/team-images/$MANA.png",
   "$SHIB": "https://raw.githubusercontent.com/yoda-xyz/match-data/main/team-images/$SHIB.png",
-  "$XRP": "https://raw.githubusercontent.com/yoda-xyz/match-data/main/team-images/$LUNA.png"
+  "$XRP": "https://raw.githubusercontent.com/yoda-xyz/match-data/main/team-images/$XRP.png",
+  "BALLON": "https://raw.githubusercontent.com/yoda-xyz/match-data/main/team-images/BALLON.jpg",
+  "UCL": "https://raw.githubusercontent.com/yoda-xyz/match-data/main/team-images/CHAMPIONS_LEAGUE.jpg",
+  "EPL": "https://raw.githubusercontent.com/yoda-xyz/match-data/main/team-images/PREMIER_LEAGUE.png",
+  "LALIGA": "https://raw.githubusercontent.com/yoda-xyz/match-data/main/team-images/LALIGA.png"
 }

@@ -5446,7 +5446,7 @@
         "question_show_end_time": "01-02-2022 07:30:00",
         "team_a": "Grammy Awards",
         "team_b": "",
-        "team_a_code": "Grammy Awards"
+        "team_a_code": "Grammy"
     },
     "0x4e96baeda423f938013b1ec3b5243efdb05a9c6484f43245bca7e86abfb857d8": {
         "question_no": "2",
@@ -5467,6 +5467,6 @@
         "question_show_end_time": "01-02-2022 07:30:00",
         "team_a": "Grammy Awards",
         "team_b": "",
-        "team_a_code": "Grammy Awards"
+        "team_a_code": "Grammy"
     }
 }

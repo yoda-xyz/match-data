@@ -23,5 +23,14 @@
   "$BTC" : "https://raw.githubusercontent.com/yoda-xyz/match-data/main/team-images/$BTC.png",
   "$ETH" : "https://raw.githubusercontent.com/yoda-xyz/match-data/main/team-images/$ETH.png",
   "$MATIC" : "https://raw.githubusercontent.com/yoda-xyz/match-data/main/team-images/$MATIC.png",
-  "$SOL": "https://raw.githubusercontent.com/yoda-xyz/match-data/main/team-images/$SOL.png"
+  "$SOL": "https://raw.githubusercontent.com/yoda-xyz/match-data/main/team-images/$SOL.png",
+  "$ADA": "https://raw.githubusercontent.com/yoda-xyz/match-data/main/team-images/$ADA.png",
+  "$BNB": "https://raw.githubusercontent.com/yoda-xyz/match-data/main/team-images/$BNB.png",
+  "$CRX": "https://raw.githubusercontent.com/yoda-xyz/match-data/main/team-images/$CRX.png",
+  "$DGB": "https://raw.githubusercontent.com/yoda-xyz/match-data/main/team-images/$DGB.png",
+  "$DOT": "https://raw.githubusercontent.com/yoda-xyz/match-data/main/team-images/$DOT.png",
+  "$LUNA": "https://raw.githubusercontent.com/yoda-xyz/match-data/main/team-images/$LUNA.png",
+  "$MANA": "https://raw.githubusercontent.com/yoda-xyz/match-data/main/team-images/$MANA.png",
+  "$SHIB": "https://raw.githubusercontent.com/yoda-xyz/match-data/main/team-images/$SHIB.png",
+  "$XRP": "https://raw.githubusercontent.com/yoda-xyz/match-data/main/team-images/$LUNA.png"
 }

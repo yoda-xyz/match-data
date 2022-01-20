@@ -36,6 +36,7 @@
   "$SHIB": "https://raw.githubusercontent.com/yoda-xyz/match-data/main/team-images/$SHIB.png",
   "$XRP": "https://raw.githubusercontent.com/yoda-xyz/match-data/main/team-images/$XRP.png",
   "$AVAX": "https://raw.githubusercontent.com/yoda-xyz/match-data/main/team-images/$AVAX.png",
+  "$ROUTE": "https://raw.githubusercontent.com/yoda-xyz/match-data/main/team-images/$ROUTE.png",
   "BALLON": "https://raw.githubusercontent.com/yoda-xyz/match-data/main/team-images/BALLON.png",
   "UCL": "https://raw.githubusercontent.com/yoda-xyz/match-data/main/team-images/CHAMPIONS_LEAGUE.png",
   "EPL": "https://raw.githubusercontent.com/yoda-xyz/match-data/main/team-images/PREMIER_LEAGUE.png",
@@ -64,5 +65,15 @@
   "PUNJAB ELECTIONS":"https://raw.githubusercontent.com/yoda-xyz/match-data/main/team-images/STATEELECTIONS.png",
   "GOA ELECTIONS":"https://raw.githubusercontent.com/yoda-xyz/match-data/main/team-images/STATEELECTIONS.png",
   "STATEELECTIONS":"https://raw.githubusercontent.com/yoda-xyz/match-data/main/team-images/STATEELECTIONS.png",
-  "UTTAR PRADESH ELECTIONS":"https://raw.githubusercontent.com/yoda-xyz/match-data/main/team-images/STATEELECTIONS.png"
+  "UTTAR PRADESH ELECTIONS":"https://raw.githubusercontent.com/yoda-xyz/match-data/main/team-images/STATEELECTIONS.png",
+  "BURKINA FASO":"https://raw.githubusercontent.com/yoda-xyz/match-data/main/team-images/BURKINA FASO.png",
+  "CAMEROON":"https://raw.githubusercontent.com/yoda-xyz/match-data/main/team-images/CAMEROON.png",
+  "CAPE VERDE":"https://raw.githubusercontent.com/yoda-xyz/match-data/main/team-images/CAPE VERDE.png",
+  "EGYPT":"https://raw.githubusercontent.com/yoda-xyz/match-data/main/team-images/EGYPT.png",
+  "GABON":"https://raw.githubusercontent.com/yoda-xyz/match-data/main/team-images/GABON.png",
+  "GUINEA":"https://raw.githubusercontent.com/yoda-xyz/match-data/main/team-images/GUINEA.png",
+  "MALAWI":"https://raw.githubusercontent.com/yoda-xyz/match-data/main/team-images/MALAWI.png",
+  "MOROCCO":"https://raw.githubusercontent.com/yoda-xyz/match-data/main/team-images/MOROCCO.png",
+  "NIGERIA":"https://raw.githubusercontent.com/yoda-xyz/match-data/main/team-images/NIGERIA.png",
+  "SENEGAL":"https://raw.githubusercontent.com/yoda-xyz/match-data/main/team-images/SENEGAL.png"
 }
